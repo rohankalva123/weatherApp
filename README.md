@@ -2,6 +2,9 @@
 
 A simple weather app that displays the current weather information and hourly forecast for a specific location.
 
+## Demo
+https://github.com/rohankalva123/weatherApp/blob/1c11bfbdd8988d8933191388c9e1e37f2434b200/weather_app.png
+
 ## Getting Started
 
 1. Clone the repository to your local machine.
@@ -11,6 +14,7 @@ A simple weather app that displays the current weather information and hourly fo
 3. Open the project in your preferred code editor.
 
 4. Run the app on your emulator or physical device.
+   
 
 
 
